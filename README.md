@@ -12,4 +12,4 @@ You can pull it from the repo and run it easily
 
 ----> Yml file for docker compose 
 
-----> All these code files, yaml files, script files, and readme file should be available on GitHub repository.
+----> All these code files, yml files, script files, and readme file is available on GitHub repository.
